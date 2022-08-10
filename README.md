@@ -9,5 +9,7 @@ in dem jeder die benötigten Daten zum Ausrechnen des ALG II und dann seine aktu
 um zu schauen, wie viel mehr (oder weniger) Geld durch Arbeiten im Gegensatz zu ALG II am Ende übrig bleibt.
 
 ### Kommunikation
-Die am Ende relevanten Konversationen wie Feature- und Ideenvorschläge finden hier auf GitHub unter den [Issues](https://github.com/Hartz-Arbeit/LohntDat/issues) und [Pull Requests](https://github.com/Hartz-Arbeit/LohntDat/pulls) statt.
+Die am Ende relevanten Konversationen, wie Feature- und Ideenvorschläge finden hier auf GitHub unter [Discussion](https://github.com/Hartz-Arbeit/LohntDat/discussions) statt.
 Parallel dazu gibt es noch einen [Discord Server](https://discord.gg/WmAFEJffuK), auf dem sich ebenfalls ausgetauscht und besprochen werden kann.
+
+Die Umsetzung von Ideen und Features werden mit [Pull Requests](https://github.com/Hartz-Arbeit/LohntDat/pulls) gemacht, für Fehler und Bug Reports können die [Issues](https://github.com/Hartz-Arbeit/LohntDat/issues) genutzt werden.
