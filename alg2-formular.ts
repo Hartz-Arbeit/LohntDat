@@ -8,7 +8,7 @@ export interface ALG2Formular {
   partnerInBG?: LeistungsberechtigtePerson;
   kinder?: LeistungsberechtigtePerson[];
   unterkunft: Unterkunft;
-  personenImHaushaltAusserhalbBG: number;
+  personenImHaushaltAusserhalbBG?: number;
 }
 
 export interface LeistungsberechtigtePerson {
