@@ -87,11 +87,17 @@ export interface Absetzung {
 }
 
 export interface Unterkunft {
-  mietstufe: Mietstufe | MietstufenBerechnung;
+  mietstufe: Mietstufe;
+  wohnverhaeltnis: Wohnverhaeltnis;
   kaltmiete: number;
   nebenkosten: number;
   heizkosten: number;
   zentraleWasserversorgung?: number;
+}
+
+export enum Wohnverhaeltnis {
+  MIETE = "MIETE",
+  EIGENTUM = "EIGENTUM"
 }
 
 export enum Mietstufe {
@@ -102,15 +108,4 @@ export enum Mietstufe {
   STUFE_FUENF = 5,
   STUFE_SECHS = 6,
   STUFE_SIEBEN = 7
-}
-
-export interface MietstufenBerechnung {
-  bundesland: string;
-  wohnort: string;
-  wohnverhaeltnis: Wohnverhaeltnis;
-}
-
-export enum Wohnverhaeltnis {
-  MIETE = "MIETE",
-  EIGENTUM = "EIGENTUM"
 }
