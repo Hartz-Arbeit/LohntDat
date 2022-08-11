@@ -95,6 +95,11 @@ export interface Unterkunft {
   zentraleWasserversorgung?: number;
 }
 
+export enum Wohnverhaeltnis {
+  MIETE = "MIETE",
+  EIGENTUM = "EIGENTUM"
+}
+
 export enum Mietstufe {
   STUFE_EINS = 1,
   STUFE_ZWEI = 2,
