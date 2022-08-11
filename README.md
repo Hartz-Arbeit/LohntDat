@@ -1,6 +1,6 @@
 # LohntDat
 
-Ein [r/Finanzen](https://www.reddit.com/r/Finanzen/) Nutzer frage sich in [diesem](https://www.reddit.com/r/Finanzen/comments/wihglw/app_hartziv_oder_arbeiten/) Post, ob es sich als Geringverdiener noch lohnt zu arbeiten,
+Ein [r/Finanzen](https://www.reddit.com/r/Finanzen/) Nutzer fragte sich in [diesem](https://www.reddit.com/r/Finanzen/comments/wihglw/app_hartziv_oder_arbeiten/) Post, ob es sich als Geringverdiener (gerade bei den gestiegenen Energiekosten) noch lohnt zu arbeiten,
 oder ob es rentabler wäre, ALG II (umg. Hartz IV) zu beziehen.
 
 Um dies herauszufinden, schlug der Nutzer das Entwickeln einer App zur Berechnung dessen vor - wodurch dieses Projekt ins Leben gerufen wurde.
