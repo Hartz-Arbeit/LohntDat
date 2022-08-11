@@ -14,3 +14,4 @@ Die am Ende relevanten Konversationen, wie Feature- und Ideenvorschläge finden 
 Parallel dazu gibt es noch einen [Discord Server](https://discord.gg/WmAFEJffuK), auf dem sich ebenfalls ausgetauscht und besprochen werden kann.
 
 Die Umsetzung von Ideen und Features werden mit [Pull Requests](https://github.com/Hartz-Arbeit/LohntDat/pulls) gemacht, für Fehler und Bug Reports können die [Issues](https://github.com/Hartz-Arbeit/LohntDat/issues) genutzt werden.
+Der aktuelle Stand von Feature Implementation kann bei den [Projekten](https://github.com/Hartz-Arbeit/LohntDat/projects) nachgeschaut werden.
