@@ -1,8 +1,9 @@
 # LohntDat
 
-Beginnend mit [diesem](https://www.reddit.com/r/Finanzen/comments/wihglw/app_hartziv_oder_arbeiten/) Post in [r/Finanzen](https://www.reddit.com/r/Finanzen/),
-in dem ein Nutzer sich fragte, ob es sich wirtschaftlich im Hinblick auf den Winter 2022 und die damit verbundenen steigenden Energiepreise nicht mehr lohnt,
-Hartz IV / ALG II zu beantragen anstatt zu arbeiten und ob man zur Berechnung dieser Frage eine App erstellen könnte, wurde dieses Projekt ins Leben gerufen.
+Ein [r/Finanzen](https://www.reddit.com/r/Finanzen/) Nutzer frage sich in [diesem](https://www.reddit.com/r/Finanzen/comments/wihglw/app_hartziv_oder_arbeiten/) Post, ob es sich als Geringverdiener noch lohnt zu arbeiten,
+oder ob es rentabler wäre, ALG II (umg. Hartz IV) zu beziehen.
+
+Um dies herauszufinden, schlug der Nutzer das Entwickeln einer App zur Berechnung dessen vor - und so wurde dieses Projekt ins Leben gerufen.
 
 Das Projekt zielt genau darauf ab, die angesprochene Frage zu beantworten: Ein verständliches Formular (wir sind ja keine deutsche Behörde),
 in dem jeder die benötigten Daten zum Ausrechnen des ALG II und dann seine aktuell laufenden Nebenkosten in Form von Heizung, Strom, etc. eingeben kann,
